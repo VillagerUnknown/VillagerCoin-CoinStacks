@@ -1,0 +1,7 @@
+{
+	"parent": "villagerunknown-villagercoin:block/small_coin_stack",
+	"textures": {
+		"0": "villagerunknown-villagercoin:item/netherite_villager_coin",
+		"particle": "villagerunknown-villagercoin:item/netherite_villager_coin"
+	}
+}

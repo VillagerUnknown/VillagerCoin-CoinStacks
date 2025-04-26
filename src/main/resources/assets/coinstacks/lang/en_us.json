@@ -1,0 +1,27 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "text.autoconfig.villagerunknown-coinstacks.category.General": "General",
+
+  "text.autoconfig.villagerunknown-coinstacks.option.enableTheUnknown": "Enable The Unknown",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Small Copper Coin Stack",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Small Iron Coin Stack",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Small Gold Coin Stack",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Small Emerald Coin Stack",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Small Netherite Coin Stack",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Medium Copper Coin Stack",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Medium Iron Coin Stack",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Medium Gold Coin Stack",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Medium Emerald Coin Stack",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Medium Netherite Coin Stack",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Large Copper Coin Stack",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Large Iron Coin Stack",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Large Gold Coin Stack",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Large Emerald Coin Stack",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Large Netherite Coin Stack"
+
+}

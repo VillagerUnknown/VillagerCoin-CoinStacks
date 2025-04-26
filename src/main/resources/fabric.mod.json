@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "villagerunknown-coinstacks",
+  "version": "${version}",
+  "name": "VillagerUnknown's Coin Stacks for Villager Coin",
+  "description": "Adds various Coin Stacks to Villager Coin that allow map makers and custom structures to provide stacks of coins for players to collect.",
+  "authors": ["VillagerUnknown"],
+  "contact": {
+    "homepage":"https://github.com/VillagerUnknown",
+    "sources":"https://github.com/VillagerUnknown/VillagerCoin-CoinStacks",
+    "issues":"https://github.com/VillagerUnknown/VillagerCoin-CoinStacks/issues"
+  },
+  "license": "CC-BY-4.0",
+  "icon": "assets/coinstacks/villagerunknown-coin-stacks.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.villagerunknown.coinstacks.client.CoinstacksClient"
+    ],
+    "main": [
+      "me.villagerunknown.coinstacks.Coinstacks"
+    ],
+    "modmenu": [
+      "me.villagerunknown.coinstacks.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "coinstacks.mixins.json",
+    {
+      "config": "coinstacks.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "villagerunknown-platform": ">=1.2.0",
+    "villagerunknown-villagercoin": ">=1.0.5"
+  }
+}

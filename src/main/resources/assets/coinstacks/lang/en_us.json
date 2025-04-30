@@ -22,6 +22,18 @@
   "block.villagerunknown-villagercoin.large_iron_coin_stack": "Large Iron Coin Stack",
   "block.villagerunknown-villagercoin.large_gold_coin_stack": "Large Gold Coin Stack",
   "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Large Emerald Coin Stack",
-  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Large Netherite Coin Stack"
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Large Netherite Coin Stack",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Copper Coin Stack Slab",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Iron Coin Stack Slab",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Gold Coin Stack Slab",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Emerald Coin Stack Slab",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Netherite Coin Stack Slab",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Copper Coin Stack Block",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Iron Coin Stack Block",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Gold Coin Stack Block",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Emerald Coin Stack Block",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Netherite Coin Stack Block"
 
 }

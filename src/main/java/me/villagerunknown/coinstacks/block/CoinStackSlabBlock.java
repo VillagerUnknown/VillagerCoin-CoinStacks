@@ -47,8 +47,8 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 			
 			if( null != currencyComponent ) {
 				BlockState blockState = null;
-				int value = currencyComponent.value();
-				int newValue = 0;
+				long value = currencyComponent.value();
+				long newValue = 0;
 				
 				if( CoinStackBlocksFeature.COPPER_VALUE * CoinStackBlocksFeature.SLAB_VALUE_MULTIPLIER == value ) {
 					blockState = CoinStackBlocks.COPPER_COIN_STACK_BLOCK.getDefaultState();

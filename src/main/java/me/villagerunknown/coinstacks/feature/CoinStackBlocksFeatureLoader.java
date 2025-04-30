@@ -57,31 +57,31 @@ public class CoinStackBlocksFeatureLoader {
 		return CoinStackBlocksFeature.registerCoinStackBlockEntities( builder );
 	}
 	
-	public static Block registerCoinStackBlock( String id, Block block, int value ) {
+	public static Block registerCoinStackBlock( String id, Block block, long value ) {
 		return CoinStackBlocksFeature.registerCoinStackBlock( id, block, value );
 	}
 	
-	public static Block registerCraftableCoinStackBlock( CoinType type, String id, Block block, int value ) {
+	public static Block registerCraftableCoinStackBlock( CoinType type, String id, Block block, long value ) {
 		return CoinStackBlocksFeature.registerCraftableCoinStackBlock( type, id, block, value );
 	}
 	
-	public static Block registerSmallCoinStackBlock( CoinType type, String id, int value ) {
+	public static Block registerSmallCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerMediumCoinStackBlock( CoinType type, String id, int value ) {
+	public static Block registerMediumCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerLargeCoinStackBlock( CoinType type, String id, int value ) {
+	public static Block registerLargeCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerCoinStackSlabBlock( CoinType type, String id, int value ) {
+	public static Block registerCoinStackSlabBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerCoinStackBlock( CoinType type, String id, int value ) {
+	public static Block registerCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	

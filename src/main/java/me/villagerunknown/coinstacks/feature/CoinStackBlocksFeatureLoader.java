@@ -7,6 +7,7 @@ import me.villagerunknown.villagercoin.Villagercoin;
 import me.villagerunknown.villagercoin.block.entity.AbstractCurrencyValueBlockEntity;
 import me.villagerunknown.villagercoin.component.CurrencyComponent;
 import me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature;
+import me.villagerunknown.villagercoin.type.CoinType;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.entity.BlockEntityType;
@@ -46,20 +47,20 @@ public class CoinStackBlocksFeatureLoader {
 		return CoinStackBlocksFeature.registerCoinStackBlockEntities( builder );
 	}
 	
-	public static Block registerCoinStackBlock( String id, int value ) {
-		return CoinStackBlocksFeature.registerCoinStackBlock( id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
+	public static Block registerCoinStackBlock( CoinType type, String id, int value ) {
+		return CoinStackBlocksFeature.registerCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerSmallCoinStackBlock( String id, int value ) {
-		return CoinStackBlocksFeature.registerCoinStackBlock( id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	public static Block registerSmallCoinStackBlock( CoinType type, String id, int value ) {
+		return CoinStackBlocksFeature.registerCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerMediumCoinStackBlock( String id, int value ) {
-		return CoinStackBlocksFeature.registerCoinStackBlock( id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	public static Block registerMediumCoinStackBlock( CoinType type, String id, int value ) {
+		return CoinStackBlocksFeature.registerCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
-	public static Block registerLargeCoinStackBlock( String id, int value ) {
-		return CoinStackBlocksFeature.registerCoinStackBlock( id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	public static Block registerLargeCoinStackBlock( CoinType type, String id, int value ) {
+		return CoinStackBlocksFeature.registerCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
 }

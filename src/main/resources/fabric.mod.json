@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "coinstacks.mixins.json",
+    "villagercoin-coinstacks.mixins.json",
     {
-      "config": "coinstacks.client.mixins.json",
+      "config": "villagercoin-coinstacks.client.mixins.json",
       "environment": "client"
     }
   ],

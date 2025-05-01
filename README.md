@@ -31,6 +31,8 @@ Players can drop the value of a Coin Stack in coins to collect them by breaking 
 _If configured to allow players to walk over the stacks to collect them, they will have no collision for players stand on._ 
 The blocks can be picked up in item form if broken with Silk Touch.
 
+You can place a Coin Stack Slab to join with another Coin Stack Slab to form a Coin Stack Block. (Like placing a slab on top of another slab to form a single block.)
+
 ## Support
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-CoinStacks/issues

@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 
 - Changed Emerald and Netherite Coin Stack values to be accurate to their conversions. 
 They originally had a lower value for mapmakers but have been adjusted for crafting.
+- Changed mixin filenames to avoid potential conflicts.
 
 ## [1.0.0]
 

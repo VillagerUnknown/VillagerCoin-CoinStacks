@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Added recipes for Coin Stacks allowing them to be crafted in Survival mode.
+- Added option to Villager Coin to toggle the ability to break Coin Stacks by walking over them. _This is now disabled by default._
 
 ### Changed
 

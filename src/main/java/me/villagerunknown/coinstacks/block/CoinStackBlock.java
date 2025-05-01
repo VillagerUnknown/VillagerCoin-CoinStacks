@@ -28,6 +28,7 @@ public class CoinStackBlock extends AbstractCoinStackBlock {
 		super(
 				settings
 						.nonOpaque()
+						.breakInstantly()
 		);
 	}
 	

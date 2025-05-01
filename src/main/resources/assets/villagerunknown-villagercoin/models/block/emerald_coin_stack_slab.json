@@ -1,0 +1,7 @@
+{
+	"parent": "villagerunknown-villagercoin:block/coin_stack_slab",
+	"textures": {
+		"0": "villagerunknown-villagercoin:item/emerald_villager_coin",
+		"particle": "villagerunknown-villagercoin:item/emerald_villager_coin"
+	}
+}

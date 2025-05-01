@@ -16,6 +16,18 @@
     "villagerunknown-villagercoin:large_iron_coin_stack",
     "villagerunknown-villagercoin:large_gold_coin_stack",
     "villagerunknown-villagercoin:large_emerald_coin_stack",
-    "villagerunknown-villagercoin:large_netherite_coin_stack"
+    "villagerunknown-villagercoin:large_netherite_coin_stack",
+
+    "villagerunknown-villagercoin:copper_coin_stack_slab",
+    "villagerunknown-villagercoin:iron_coin_stack_slab",
+    "villagerunknown-villagercoin:gold_coin_stack_slab",
+    "villagerunknown-villagercoin:emerald_coin_stack_slab",
+    "villagerunknown-villagercoin:netherite_coin_stack_slab",
+
+    "villagerunknown-villagercoin:copper_coin_stack_block",
+    "villagerunknown-villagercoin:iron_coin_stack_block",
+    "villagerunknown-villagercoin:gold_coin_stack_block",
+    "villagerunknown-villagercoin:emerald_coin_stack_block",
+    "villagerunknown-villagercoin:netherite_coin_stack_block"
   ]
 }

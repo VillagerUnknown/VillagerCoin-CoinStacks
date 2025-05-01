@@ -42,7 +42,7 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 	
 	@Override
 	protected ItemActionResult onUseWithItem(ItemStack stack, BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
-		if( stack.isOf( this.asItem() ) ) {
+		if( hit.getSide() == Direction.UP && stack.isOf( this.asItem() ) ) {
 			CurrencyComponent currencyComponent = stack.get( CURRENCY_COMPONENT );
 			
 			if( null != currencyComponent ) {
@@ -82,7 +82,7 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 					
 					stack.decrementUnlessCreative( 1, player );
 					
-					return ItemActionResult.CONSUME;
+					return ItemActionResult.SUCCESS;
 				} // if
 			} // if
 		}

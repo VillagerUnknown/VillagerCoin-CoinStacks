@@ -18,7 +18,8 @@ _(e.g. A Small Copper Coin Stack provides 1 Copper Coin, whereas a Medium Copper
 and a Large Copper Coin Stack provides 100 Copper Coins as 1 Silver Coin.)_
 
 Coin Stacks can be crafted by placing an item stack of Copper, Iron, Gold, Emerald, or Netherite Villager Coins in the center of 
-a 3x3 crafting table and placing a piece of string on each side to surround the coin.
+a 3x3 crafting table and placing a piece of string on each side to surround the coin. 
+_This recipe will not work with non-core coins like Collectables or Instant Effect Coins._
 
 * Small Coin Stacks can be crafted by surrounding 1 coin with string.
 * Medium Coin Stacks can be crafted by surrounding 50 coins with string.

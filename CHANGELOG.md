@@ -13,7 +13,7 @@ _This is now disabled by default._
 
 ### Changed
 
-- Changed Medium Coin Stacks to allow them to merge when placed in the same block. (Like a slab.)
+- Changed Medium Coin Stacks to allow them to merge into Large Stacks when placed in the same block. (Like a slab.)
 - Changed Emerald and Netherite Coin Stack values to be accurate to their conversions. 
 _They originally had a lower value for mapmakers but have been adjusted for crafting._
 - Changed mixin filenames to avoid potential conflicts.

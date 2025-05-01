@@ -65,24 +65,48 @@ public class CoinStackBlocksFeatureLoader {
 		return CoinStackBlocksFeature.registerCraftableCoinStackBlock( type, id, block, value );
 	}
 	
+	public static Block registerCraftableFireproofCoinStackBlock( CoinType type, String id, Block block, long value ) {
+		return CoinStackBlocksFeature.registerCraftableFireproofCoinStackBlock( type, id, block, value );
+	}
+	
 	public static Block registerSmallCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	}
+	
+	public static Block registerSmallFireproofCoinStackBlock( CoinType type, String id, long value ) {
+		return registerCraftableFireproofCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
 	public static Block registerMediumCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
+	public static Block registerMediumFireproofCoinStackBlock( CoinType type, String id, long value ) {
+		return registerCraftableFireproofCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	}
+	
 	public static Block registerLargeCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
+	}
+	
+	public static Block registerLargeFireproofCoinStackBlock( CoinType type, String id, long value ) {
+		return registerCraftableFireproofCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
 	public static Block registerCoinStackSlabBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
+	public static Block registerFireproofCoinStackSlabBlock( CoinType type, String id, long value ) {
+		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create() ), value );
+	}
+	
 	public static Block registerCoinStackBlock( CoinType type, String id, long value ) {
 		return registerCraftableCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
+	}
+	
+	public static Block registerFireproofCoinStackBlock( CoinType type, String id, long value ) {
+		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
 	}
 	
 }

@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "villagerunknown-villagercoin:small_copper_coin_stack",
     "villagerunknown-villagercoin:small_iron_coin_stack",

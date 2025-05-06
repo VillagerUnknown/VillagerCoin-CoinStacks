@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2]
+
+Receiving updates from VC 1.0.7.
+
+### Changed
+
+- Changed block and item tags to comply with updates from VC 1.0.7.
+
 ## [1.0.1]
 
 ### Added

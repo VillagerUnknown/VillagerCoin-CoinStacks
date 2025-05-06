@@ -2,19 +2,12 @@ package me.villagerunknown.coinstacks.feature;
 
 import me.villagerunknown.coinstacks.block.*;
 import me.villagerunknown.coinstacks.block.entity.CoinStackBlockEntity;
-import me.villagerunknown.platform.util.RegistryUtil;
-import me.villagerunknown.villagercoin.Villagercoin;
 import me.villagerunknown.villagercoin.block.entity.AbstractCurrencyValueBlockEntity;
-import me.villagerunknown.villagercoin.component.CurrencyComponent;
 import me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature;
 import me.villagerunknown.villagercoin.type.CoinType;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.entity.BlockEntityType;
-import net.minecraft.item.BlockItem;
-import net.minecraft.item.Item;
-
-import static me.villagerunknown.villagercoin.Villagercoin.CURRENCY_COMPONENT;
 
 public class CoinStackBlocksFeatureLoader {
 

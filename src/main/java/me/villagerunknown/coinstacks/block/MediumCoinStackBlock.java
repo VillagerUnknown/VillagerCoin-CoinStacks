@@ -1,6 +1,7 @@
 package me.villagerunknown.coinstacks.block;
 
 import com.google.common.collect.ImmutableMap;
+import me.villagerunknown.villagercoin.block.CoinStackBlock;
 import me.villagerunknown.villagercoin.block.entity.AbstractCurrencyValueBlockEntity;
 import me.villagerunknown.villagercoin.component.CurrencyComponent;
 import me.villagerunknown.villagercoin.feature.CoinFeature;

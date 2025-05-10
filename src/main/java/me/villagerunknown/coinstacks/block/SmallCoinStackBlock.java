@@ -1,6 +1,7 @@
 package me.villagerunknown.coinstacks.block;
 
 import com.google.common.collect.ImmutableMap;
+import me.villagerunknown.villagercoin.block.CoinStackBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.ShapeContext;

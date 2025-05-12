@@ -16,15 +16,11 @@ public class Coinstacks implements ModInitializer {
 	
 	@Override
 	public void onInitialize() {
-		// # Initialize Mod
-		init();
-	}
-	
-	private static void init() {
+		// # Initialize mod with Platform
 		Platform.init_mod( MOD );
 		
 		// # Activate Features
-		featureManager.addFeature( "CoinStackBlocksFeatureLoader", CoinStackBlocksFeatureLoader::execute );
+		featureManager.addFeature( "coinStackBlocksFeatureLoader", CoinStackBlocksFeatureLoader::execute );
 		
 		// # Load Features
 		featureManager.loadFeatures();

@@ -11,7 +11,7 @@
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-CoinStacks/issues"
   },
   "license": "CC-BY-4.0",
-  "icon": "assets/coinstacks/villagerunknown-coin-stacks.png",
+  "icon": "assets/villagerunknown-coinstacks/villagerunknown-coin-stacks.png",
   "environment": "*",
   "entrypoints": {
     "client": [

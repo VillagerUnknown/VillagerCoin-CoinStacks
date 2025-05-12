@@ -2,27 +2,26 @@ package me.villagerunknown.coinstacks.feature;
 
 import me.villagerunknown.coinstacks.block.*;
 import me.villagerunknown.villagercoin.block.CoinStackBlock;
-import me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature;
 import me.villagerunknown.villagercoin.type.CoinType;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 
-public class CoinStackBlocksFeatureLoader {
+public class CoinStackBlocksFeature {
 
 	public static void execute(){
 		new CoinStackBlocks();
 	}
 	
 	public static Block registerCoinStackBlock( String id, Block block, long value ) {
-		return CoinStackBlocksFeature.registerCoinStackBlock( id, block, value );
+		return me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature.registerCoinStackBlock( id, block, value );
 	}
 	
 	public static Block registerCraftableCoinStackBlock( CoinType type, String id, Block block, long value ) {
-		return CoinStackBlocksFeature.registerCraftableCoinStackBlock( type, id, block, value );
+		return me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature.registerCraftableCoinStackBlock( type, id, block, value );
 	}
 	
 	public static Block registerCraftableFireproofCoinStackBlock( CoinType type, String id, Block block, long value ) {
-		return CoinStackBlocksFeature.registerCraftableFireproofCoinStackBlock( type, id, block, value );
+		return me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature.registerCraftableFireproofCoinStackBlock( type, id, block, value );
 	}
 	
 	public static Block registerSmallCoinStackBlock( CoinType type, String id, long value ) {

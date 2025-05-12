@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3]
+
+_This update allows multiple add-ons to add Coin Stacks._
+Receiving updates from Platform 1.3.0.
+Receiving updates from VC 1.0.8.
+
+### Changed
+
+- Changed supported Platform version to 1.3.0.
+- Changed supported Villager Coin version to 1.0.8.
+
 ## [1.0.2]
 
 Receiving updates from VC 1.0.7.

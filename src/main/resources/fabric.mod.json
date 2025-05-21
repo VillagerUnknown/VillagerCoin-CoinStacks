@@ -10,7 +10,7 @@
     "sources":"https://github.com/VillagerUnknown/VillagerCoin-CoinStacks",
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-CoinStacks/issues"
   },
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "icon": "assets/villagerunknown-coinstacks/villagerunknown-coin-stacks.png",
   "environment": "*",
   "entrypoints": {

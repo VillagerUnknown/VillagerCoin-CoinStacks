@@ -1,6 +1,6 @@
 package me.villagerunknown.coinstacks;
 
-import me.villagerunknown.coinstacks.feature.CoinStackBlocksFeature;
+import me.villagerunknown.coinstacks.feature.CoinStackBlocksRegistrationFeature;
 import me.villagerunknown.platform.Platform;
 import me.villagerunknown.platform.PlatformMod;
 import me.villagerunknown.platform.manager.featureManager;
@@ -23,7 +23,7 @@ public class Coinstacks implements ModInitializer {
 		Platform.init_mod( MOD );
 		
 		// # Activate Features
-		featureManager.addFeature( "coin-stack-blocks", CoinStackBlocksFeature::execute );
+		featureManager.addFeature( "coin-stack-blocks-registration", CoinStackBlocksRegistrationFeature::execute );
 		
 		// # Load Features
 		featureManager.loadFeatures();

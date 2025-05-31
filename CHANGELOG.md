@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4]
+
+### Added
+
+- Added `villager_coin` item tag.
+
 ## [1.0.3]
 
 _This update allows multiple add-ons to add Coin Stacks._

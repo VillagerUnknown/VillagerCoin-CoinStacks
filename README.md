@@ -41,7 +41,7 @@ Additionally, you can also join a Medium Coin Stack with another Medium Coin Sta
 
 ### Supported Languages
 
-* English
+* English _by VillagerUnknown_
 * Pirate English
 * Svenska (Swedish)
 * Français (French)
@@ -54,3 +54,5 @@ Additionally, you can also join a Medium Coin Stack with another Medium Coin Sta
 * 日本語 (Japanese)
 * हिन्दी (Hindi)
 * (Hebrew) עברית
+
+_Disclaimer: Unless noted otherwise, translations have been provided by automated services._

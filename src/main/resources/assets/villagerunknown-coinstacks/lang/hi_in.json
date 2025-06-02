@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "छोटी तांबे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "छोटी लोहे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "छोटी सोने के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "छोटी पन्ना सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "छोटी नेदराइट सिक्कों की ढेर",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "मध्यम तांबे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "मध्यम लोहे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "मध्यम सोने के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "मध्यम पन्ना सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "मध्यम नेदराइट सिक्कों की ढेर",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "बड़ी तांबे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "बड़ी लोहे के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "बड़ी सोने के सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "बड़ी पन्ना सिक्कों की ढेर",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "बड़ी नेदराइट सिक्कों की ढेर",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "तांबे के सिक्कों की स्लैब",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "लोहे के सिक्कों की स्लैब",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "सोने के सिक्कों की स्लैब",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "पन्ना सिक्कों की स्लैब",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "नेदराइट सिक्कों की स्लैब",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "तांबे के सिक्कों का ब्लॉक",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "लोहे के सिक्कों का ब्लॉक",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "सोने के सिक्कों का ब्लॉक",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "पन्ना सिक्कों का ब्लॉक",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "नेदराइट सिक्कों का ब्लॉक"
+
+}

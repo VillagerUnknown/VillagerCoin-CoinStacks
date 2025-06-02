@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Pequeña Pila de Monedas de Cobre",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Pequeña Pila de Monedas de Hierro",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Pequeña Pila de Monedas de Oro",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Pequeña Pila de Monedas de Esmeralda",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Pequeña Pila de Monedas de Netherite",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Mediana Pila de Monedas de Cobre",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Mediana Pila de Monedas de Hierro",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Mediana Pila de Monedas de Oro",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Mediana Pila de Monedas de Esmeralda",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Mediana Pila de Monedas de Netherite",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Gran Pila de Monedas de Cobre",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Gran Pila de Monedas de Hierro",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Gran Pila de Monedas de Oro",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Gran Pila de Monedas de Esmeralda",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Gran Pila de Monedas de Netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Losa de Pila de Monedas de Cobre",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Losa de Pila de Monedas de Hierro",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Losa de Pila de Monedas de Oro",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Losa de Pila de Monedas de Esmeralda",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Losa de Pila de Monedas de Netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Bloque de Pila de Monedas de Cobre",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Bloque de Pila de Monedas de Hierro",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Bloque de Pila de Monedas de Oro",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Bloque de Pila de Monedas de Esmeralda",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Bloque de Pila de Monedas de Netherite"
+
+}

@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Petite pile de pièces en cuivre",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Petite pile de pièces en fer",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Petite pile de pièces en or",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Petite pile de pièces en émeraude",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Petite pile de pièces en netherite",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Pile moyenne de pièces en cuivre",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Pile moyenne de pièces en fer",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Pile moyenne de pièces en or",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Pile moyenne de pièces en émeraude",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Pile moyenne de pièces en netherite",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Grande pile de pièces en cuivre",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Grande pile de pièces en fer",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Grande pile de pièces en or",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Grande pile de pièces en émeraude",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Grande pile de pièces en netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Dalle de pile de pièces en cuivre",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Dalle de pile de pièces en fer",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Dalle de pile de pièces en or",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Dalle de pile de pièces en émeraude",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Dalle de pile de pièces en netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Bloc de pile de pièces en cuivre",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Bloc de pile de pièces en fer",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Bloc de pile de pièces en or",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Bloc de pile de pièces en émeraude",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Bloc de pile de pièces en netherite"
+
+}

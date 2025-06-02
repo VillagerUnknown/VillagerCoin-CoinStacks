@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Piccola pila di monete di rame",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Piccola pila di monete di ferro",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Piccola pila di monete d'oro",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Piccola pila di monete di smeraldo",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Piccola pila di monete di netherite",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Media pila di monete di rame",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Media pila di monete di ferro",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Media pila di monete d'oro",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Media pila di monete di smeraldo",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Media pila di monete di netherite",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Grande pila di monete di rame",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Grande pila di monete di ferro",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Grande pila di monete d'oro",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Grande pila di monete di smeraldo",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Grande pila di monete di netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Lastra di pila di monete di rame",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Lastra di pila di monete di ferro",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Lastra di pila di monete d'oro",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Lastra di pila di monete di smeraldo",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Lastra di pila di monete di netherite",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Blocco di pila di monete di rame",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Blocco di pila di monete di ferro",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Blocco di pila di monete d'oro",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Blocco di pila di monete di smeraldo",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Blocco di pila di monete di netherite"
+
+}

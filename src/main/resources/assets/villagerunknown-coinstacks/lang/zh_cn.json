@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "小型铜币堆",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "小型铁币堆",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "小型金币堆",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "小型绿宝石币堆",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "小型下界合金币堆",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "中型铜币堆",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "中型铁币堆",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "中型金币堆",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "中型绿宝石币堆",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "中型下界合金币堆",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "大型铜币堆",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "大型铁币堆",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "大型金币堆",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "大型绿宝石币堆",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "大型下界合金币堆",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "铜币堆台阶",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "铁币堆台阶",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "金币堆台阶",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "绿宝石币堆台阶",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "下界合金币堆台阶",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "铜币堆方块",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "铁币堆方块",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "金币堆方块",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "绿宝石币堆方块",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "下界合金币堆方块"
+
+}

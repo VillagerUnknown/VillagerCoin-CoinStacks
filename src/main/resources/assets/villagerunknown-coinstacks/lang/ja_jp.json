@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "小さな銅のコインスタック",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "小さな鉄のコインスタック",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "小さな金のコインスタック",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "小さなエメラルドのコインスタック",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "小さなネザライトのコインスタック",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "中くらいの銅のコインスタック",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "中くらいの鉄のコインスタック",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "中くらいの金のコインスタック",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "中くらいのエメラルドのコインスタック",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "中くらいのネザライトのコインスタック",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "大きな銅のコインスタック",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "大きな鉄のコインスタック",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "大きな金のコインスタック",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "大きなエメラルドのコインスタック",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "大きなネザライトのコインスタック",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "銅のコインスタックスラブ",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "鉄のコインスタックスラブ",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "金のコインスタックスラブ",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "エメラルドのコインスタックスラブ",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "ネザライトのコインスタックスラブ",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "銅のコインスタックブロック",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "鉄のコインスタックブロック",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "金のコインスタックブロック",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "エメラルドのコインスタックブロック",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "ネザライトのコインスタックブロック"
+
+}

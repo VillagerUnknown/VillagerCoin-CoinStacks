@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Kleiner Kupfermünzenstapel",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Kleiner Eisenmünzenstapel",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Kleiner Goldmünzenstapel",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Kleiner Smaragdmünzenstapel",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Kleiner Netheritmünzenstapel",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Mittlerer Kupfermünzenstapel",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Mittlerer Eisenmünzenstapel",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Mittlerer Goldmünzenstapel",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Mittlerer Smaragdmünzenstapel",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Mittlerer Netheritmünzenstapel",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Großer Kupfermünzenstapel",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Großer Eisenmünzenstapel",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Großer Goldmünzenstapel",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Großer Smaragdmünzenstapel",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Großer Netheritmünzenstapel",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Kupfermünzenstapelstufe",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Eisenmünzenstapelstufe",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Goldmünzenstapelstufe",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Smaragdmünzenstapelstufe",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Netheritmünzenstapelstufe",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Kupfermünzenstapelblock",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Eisenmünzenstapelblock",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Goldmünzenstapelblock",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Smaragdmünzenstapelblock",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Netheritmünzenstapelblock"
+
+}

@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "Small Stack o’ Copper Booty",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "Small Stack o’ Iron Booty",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "Small Stack o’ Gold Booty",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "Small Stack o’ Emerald Booty",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "Small Stack o’ Netherite Booty",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "Medium Stack o’ Copper Booty",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "Medium Stack o’ Iron Booty",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "Medium Stack o’ Gold Booty",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "Medium Stack o’ Emerald Booty",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "Medium Stack o’ Netherite Booty",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "Great Stack o’ Copper Booty",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "Great Stack o’ Iron Booty",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "Great Stack o’ Gold Booty",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "Great Stack o’ Emerald Booty",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "Great Stack o’ Netherite Booty",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "Deck Slab o’ Copper Booty",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "Deck Slab o’ Iron Booty",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "Deck Slab o’ Shiny Booty",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "Deck Slab o’ Green Booty",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "Deck Slab o’ Netherite Booty",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "Treasure Block o’ Copper Booty",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "Treasure Block o’ Iron Booty",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "Treasure Block o’ Gold Booty",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "Treasure Block o’ Emerald Booty",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "Treasure Block o’ Netherite Booty’"
+
+}

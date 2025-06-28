@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "작은 구리 동전 더미",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "작은 철 동전 더미",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "작은 금 동전 더미",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "작은 에메랄드 동전 더미",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "작은 네더라이트 동전 더미",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "중간 구리 동전 더미",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "중간 철 동전 더미",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "중간 금 동전 더미",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "중간 에메랄드 동전 더미",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "중간 네더라이트 동전 더미",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "큰 구리 동전 더미",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "큰 철 동전 더미",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "큰 금 동전 더미",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "큰 에메랄드 동전 더미",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "큰 네더라이트 동전 더미",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "구리 동전 더미 슬랩",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "철 동전 더미 슬랩",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "금 동전 더미 슬랩",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "에메랄드 동전 더미 슬랩",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "네더라이트 동전 더미 슬랩",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "구리 동전 더미 블록",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "철 동전 더미 블록",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "금 동전 더미 블록",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "에메랄드 동전 더미 블록",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "네더라이트 동전 더미 블록"
+
+}

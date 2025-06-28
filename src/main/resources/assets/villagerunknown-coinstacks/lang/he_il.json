@@ -1,0 +1,35 @@
+{
+
+  "text.autoconfig.villagerunknown-coinstacks.title": "VillagerUnknown's Coin Stacks for Villager Coin",
+
+  "block.villagerunknown-villagercoin.small_copper_coin_stack": "ערימת מטבעות נחושת קטנה",
+  "block.villagerunknown-villagercoin.small_iron_coin_stack": "ערימת מטבעות ברזל קטנה",
+  "block.villagerunknown-villagercoin.small_gold_coin_stack": "ערימת מטבעות זהב קטנה",
+  "block.villagerunknown-villagercoin.small_emerald_coin_stack": "ערימת מטבעות אזמרגד קטנה",
+  "block.villagerunknown-villagercoin.small_netherite_coin_stack": "ערימת מטבעות נתרייט קטנה",
+
+  "block.villagerunknown-villagercoin.medium_copper_coin_stack": "ערימת מטבעות נחושת בינונית",
+  "block.villagerunknown-villagercoin.medium_iron_coin_stack": "ערימת מטבעות ברזל בינונית",
+  "block.villagerunknown-villagercoin.medium_gold_coin_stack": "ערימת מטבעות זהב בינונית",
+  "block.villagerunknown-villagercoin.medium_emerald_coin_stack": "ערימת מטבעות אזמרגד בינונית",
+  "block.villagerunknown-villagercoin.medium_netherite_coin_stack": "ערימת מטבעות נתרייט בינונית",
+
+  "block.villagerunknown-villagercoin.large_copper_coin_stack": "ערימת מטבעות נחושת גדולה",
+  "block.villagerunknown-villagercoin.large_iron_coin_stack": "ערימת מטבעות ברזל גדולה",
+  "block.villagerunknown-villagercoin.large_gold_coin_stack": "ערימת מטבעות זהב גדולה",
+  "block.villagerunknown-villagercoin.large_emerald_coin_stack": "ערימת מטבעות אזמרגד גדולה",
+  "block.villagerunknown-villagercoin.large_netherite_coin_stack": "ערימת מטבעות נתרייט גדולה",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_slab": "רצפת ערימת מטבעות נחושת",
+  "block.villagerunknown-villagercoin.iron_coin_stack_slab": "רצפת ערימת מטבעות ברזל",
+  "block.villagerunknown-villagercoin.gold_coin_stack_slab": "רצפת ערימת מטבעות זהב",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_slab": "רצפת ערימת מטבעות אזמרגד",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_slab": "רצפת ערימת מטבעות נתרייט",
+
+  "block.villagerunknown-villagercoin.copper_coin_stack_block": "בלוק ערימת מטבעות נחושת",
+  "block.villagerunknown-villagercoin.iron_coin_stack_block": "בלוק ערימת מטבעות ברזל",
+  "block.villagerunknown-villagercoin.gold_coin_stack_block": "בלוק ערימת מטבעות זהב",
+  "block.villagerunknown-villagercoin.emerald_coin_stack_block": "בלוק ערימת מטבעות אזמרגד",
+  "block.villagerunknown-villagercoin.netherite_coin_stack_block": "בלוק ערימת מטבעות נתרייט"
+
+}

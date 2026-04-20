@@ -7,6 +7,11 @@ import me.villagerunknown.villagercoin.feature.CoinStackBlocksFeature;
 import me.villagerunknown.villagercoin.type.CoinType;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
+import net.minecraft.registry.RegistryKey;
+import net.minecraft.registry.RegistryKeys;
+import net.minecraft.util.Identifier;
+
+import static me.villagerunknown.villagercoin.Villagercoin.MOD_ID;
 
 public class CoinStackBlocksRegistrationFeature {
 
@@ -27,43 +32,43 @@ public class CoinStackBlocksRegistrationFeature {
 	}
 	
 	public static Block registerSmallCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerSmallFireproofCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableFireproofCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableFireproofCoinStackBlock( type, id, new SmallCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerMediumCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerMediumFireproofCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableFireproofCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableFireproofCoinStackBlock( type, id, new MediumCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerLargeCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerLargeFireproofCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableFireproofCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableFireproofCoinStackBlock( type, id, new LargeCoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerCoinStackSlabBlock( CoinType type, String id, long value ) {
-		return registerCraftableCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerFireproofCoinStackSlabBlock( CoinType type, String id, long value ) {
-		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackSlabBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 	public static Block registerFireproofCoinStackBlock( CoinType type, String id, long value ) {
-		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create() ), value );
+		return registerCraftableFireproofCoinStackBlock( type, id, new CoinStackBlock( AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID,id))) ), value );
 	}
 	
 }

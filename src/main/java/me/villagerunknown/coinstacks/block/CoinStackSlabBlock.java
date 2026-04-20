@@ -13,8 +13,8 @@ import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.fluid.Fluids;
 import net.minecraft.item.ItemStack;
+import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
-import net.minecraft.util.ItemActionResult;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Direction;
@@ -36,7 +36,7 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 	}
 	
 	@Override
-	protected ItemActionResult onUseWithItem(ItemStack stack, BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
+	protected ActionResult onUseWithItem(ItemStack stack, BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
 		if( hit.getSide() == Direction.UP && stack.isOf( this.asItem() ) ) {
 			CurrencyComponent currencyComponent = stack.get( CURRENCY_COMPONENT );
 			
@@ -77,7 +77,7 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 					
 					stack.decrementUnlessCreative( 1, player );
 					
-					return ItemActionResult.SUCCESS;
+					return ActionResult.SUCCESS;
 				} // if
 			} // if
 		}

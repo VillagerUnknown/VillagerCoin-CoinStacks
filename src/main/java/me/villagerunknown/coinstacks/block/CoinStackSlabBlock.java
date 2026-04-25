@@ -85,7 +85,6 @@ public class CoinStackSlabBlock extends CoinStackBlock {
 		return super.onUseWithItem(stack, state, world, pos, player, hand, hit);
 	}
 	
-	@Override
 	protected ImmutableMap<BlockState, VoxelShape> getShapesForStates(Function<BlockState, VoxelShape> stateToShape) {
 		HashMap<BlockState, VoxelShape> shapes = new HashMap<>();
 		

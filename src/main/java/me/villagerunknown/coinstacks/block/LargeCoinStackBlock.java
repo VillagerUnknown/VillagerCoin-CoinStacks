@@ -21,7 +21,6 @@ public class LargeCoinStackBlock extends CoinStackBlock {
 		super(settings);
 	}
 	
-	@Override
 	protected ImmutableMap<BlockState, VoxelShape> getShapesForStates(Function<BlockState, VoxelShape> stateToShape) {
 		HashMap<BlockState, VoxelShape> shapes = new HashMap<>();
 		

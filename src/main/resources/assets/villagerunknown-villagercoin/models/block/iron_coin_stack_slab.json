@@ -1,7 +1,7 @@
 {
 	"parent": "villagerunknown-villagercoin:block/coin_stack_slab",
 	"textures": {
-		"0": "villagerunknown-villagercoin:item/iron_villager_coin",
-		"particle": "villagerunknown-villagercoin:item/iron_villager_coin"
+		"0": "villagerunknown-villagercoin:block/iron_villager_coin",
+		"particle": "villagerunknown-villagercoin:block/iron_villager_coin"
 	}
 }

@@ -2,7 +2,7 @@ package me.villagerunknown.coinstacks.block;
 
 import me.villagerunknown.coinstacks.feature.CoinStackBlocksRegistrationFeature;
 import me.villagerunknown.villagercoin.type.CoinType;
-import net.minecraft.block.Block;
+import net.minecraft.world.level.block.Block;
 
 public class CoinStackBlocks {
 	
